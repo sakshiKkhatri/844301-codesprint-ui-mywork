@@ -1,0 +1,3 @@
+1. Address part of order with validation and styling.
+2. About us page created with external css and bootstrap .
+3. Assets and image resources editing.
